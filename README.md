@@ -11,6 +11,8 @@
 - 📫 How to reach me **dmtrysfrnv@gmail.com**
 
 - 🌍 I speak Russian (native), English (B1)
+  
+- 🎓 My education: Master's Degree in 09.04.03 Applied Computer Science
 ---
 ### Languages and tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="js" width="40" height="40" />&nbsp;
